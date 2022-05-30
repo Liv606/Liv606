@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div>
   <a href-"https://github.com/Liv606">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liv606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liv606&layout=compact&langs_count=16&theme=radical"/>
 <div/>
-    
