@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+My name is Lívia, but you can call me Liv! <br>
+<br>
+Here are some information about myself:
+
+- 👩‍💻 I'm a Computer Engineering Student
+
 <div>
   <a href-"https://github.com/Liv606">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liv606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
