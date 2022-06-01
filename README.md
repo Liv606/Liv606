@@ -20,7 +20,6 @@ My name is Lívia, but you can call me Liv! <br>
 <br>
 Here are some information about myself:
 
-- 🇧🇷 I'm Brazillian;
 - 👩‍💻 I'm a Computer Engineering Student;
 
 <div>
