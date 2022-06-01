@@ -21,6 +21,8 @@ My name is Lívia, but you can call me Liv! <br>
 Here are some information about myself:
 
 - 👩‍💻 I'm a Computer Engineering Student;
+- 🎮 I like to play games;
+- 🎨 I like to draw sometimes;
 
 <div>
   <a href-"https://github.com/Liv606">
