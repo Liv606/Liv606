@@ -25,10 +25,16 @@ Here are some information about myself:
 - 🎨 I like to draw sometimes;
 
 <div>
-  <a href-"https://github.com/Liv606">
+  <a href-"https://github.com/Liv606"></a>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liv606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liv606&layout=compact&langs_count=16&theme=radical"/>
 <div/>
 
+Where to contact me:
+    
+<div>
+  <a href="https://www.linkedin.com/in/lívia-spiller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:livia.spiller@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
     
 ![snake gif](https://github.com/Liv606/Liv606/blob/output/github-contribution-grid-snake.svg)
