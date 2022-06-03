@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Liv606/Liv606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,13 @@ Here are some information about myself:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liv606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liv606&layout=compact&langs_count=16&theme=radical"/>
 <div/>
-
+  
+My tryhackme:
+  
+<div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Liv606.png" alt="TryHackMe">
+</div>
+  
 Where to contact me:
     
 <div>
