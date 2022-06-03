@@ -31,4 +31,4 @@ Here are some information about myself:
 <div/>
 
     
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Liv606/Liv606/blob/output/github-contribution-grid-snake.svg)
