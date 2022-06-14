@@ -44,3 +44,5 @@ Where to contact me:
 </div>
     
 ![snake gif](https://github.com/Liv606/Liv606/blob/output/github-contribution-grid-snake.svg)
+  
+Profile in progress...
