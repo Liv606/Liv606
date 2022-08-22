@@ -33,7 +33,8 @@ Here are some information about myself:
 My tryhackme:
   
 <div>
-  <script src="https://tryhackme.com/badge/911679"></script>
+  <script src="https://tryhackme.com/badge/911679">
+  </script>
 </div>
   <br>
 Where to contact me:
