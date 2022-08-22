@@ -31,8 +31,9 @@ Here are some information about myself:
 <div/>
   
 My tryhackme:
-  
-![tryhackme stats](https://raw.githubusercontent.com/Liv606/Liv606/master/assets/thm_propic.png)
+  <div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Liv606.png" alt="TryHackMe">
+  </div>
 
   <br>
 Where to contact me:
