@@ -32,7 +32,7 @@ Here are some information about myself:
   
 My tryhackme:
   
-![tryhackme stats](https://raw.githubusercontent.com/<Liv606>/<Liv606>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Liv606/Liv606/master/assets/thm_propic.png)
 
   <br>
 Where to contact me:
