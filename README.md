@@ -32,14 +32,14 @@ Here are some information about myself:
   
 My tryhackme:
   <div>
-    <script> src="https://tryhackme.com/badge/911679" </script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Liv606.png" alt="TryHackMe">
   </div>
 
   <br>
 Where to contact me:
     
 <div>
-  <a href="https://www.linkedin.com/in/lívia-spiller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lívia-spiller"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:livia.spiller@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
     
