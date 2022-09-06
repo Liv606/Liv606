@@ -32,7 +32,7 @@ Here are some information about myself:
   
 My tryhackme:
   <div>
-    <script src="https://tryhackme.com/badge/911679"></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Liv606.png" alt="TryHackMe">
   </div>
   <br>
 Where to contact me:
