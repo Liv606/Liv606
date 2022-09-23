@@ -26,8 +26,8 @@ Here are some information about myself:
 
 <div>
   <a href-"https://github.com/Liv606"></a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liv606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liv606&layout=compact&langs_count=16&theme=radical"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Liv606&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liv606&layout=compact&langs_count=16&theme=radical"/>
 <div/>
   
 My tryhackme:
