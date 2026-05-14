@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <br>
 My name is Lívia, but you can call me Liv! <br>
@@ -45,3 +45,4 @@ Where to contact me:
 ![snake gif](https://github.com/Liv606/Liv606/blob/output/github-contribution-grid-snake.svg)
   
 Profile in progress...
+-->
